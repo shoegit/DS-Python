@@ -1,3 +1,6 @@
 ## Python DS Bootcamp
 
-Consumer Data Science Codes
+Notes for 
+- Introduction to Pandas for EDA
+- Pandas Data Wrangling
+- Data Visualization
